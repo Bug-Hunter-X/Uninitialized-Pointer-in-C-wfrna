@@ -1,0 +1,1 @@
+This repository contains a simple C program that showcases the danger of using uninitialized pointers.  The `bug.c` file contains the buggy code, while `bugSolution.c` provides a corrected version.  Uninitialized pointers can lead to unpredictable program behavior and crashes. Understanding and avoiding this is crucial for writing robust C code.
